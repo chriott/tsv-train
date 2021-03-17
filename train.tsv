@@ -1,0 +1,907 @@
+SentenceID	pos_tags	position	tokens
+82	[49 22 30 40 43  7]	['0' '1' '2' '3' '4' '5']	['How' 'could' 'it' 'have' 'failed' '?']
+272	"[26 23 16 26 16 24 29 17 24 24 24 10 26 16 12 24 29 24 24 41 18 23 16 23
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['Talks' 'today' 'between' 'supporters' 'of' 'Yugoslavia' ""'s"" 'new'
+ 'President' 'Vojislav' 'Kostunica' 'and' 'members' 'of' 'the' 'Milosevic'
+ ""'s"" 'Socialist' 'Party' 'yielded' 'more' 'heat' 'than' 'light' '.']"
+151	"[16 17 23  6 24 24 41 12 17 23  8 30 41 12 23 23  6 16 12 16 12 26 42 38
+ 40 12 23 26 16 12 23 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32']"	"['After' 'thorough' 'consideration' ',' 'Zheng' 'Bing' 'made' 'a'
+ 'surprising' 'decision' ';' 'she' 'donated' 'the' 'fertilizer' 'store'
+ ',' 'with' 'all' 'of' 'the' 'profits' 'going' 'to' 'pay' 'the' 'activity'
+ 'expenses' 'of' 'the' 'peasant' 'association' '.']"
+182	[30 41 16 12 23  7]	['0' '1' '2' '3' '4' '5']	['I' 'persisted' 'for' 'a' 'month' '.']
+83	"[33 12 11 23  6 12 23 16 12 23 23 41 38 40 30 16 23  6 30 41  6 30 22 40
+ 30 36  6 10 30 41 47 30 41 17 16 30 22 40 23 16  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40']"	"['So' 'the' '150,000' 'yuan' ',' 'the' 'head' 'of' 'the' 'credit' 'union'
+ 'wanted' 'to' 'take' 'me' 'to' 'court' ',' 'he' 'said' ',' 'I' 'should'
+ 'pay' 'it' 'back' ',' 'and' 'I' 'said' 'what' 'I' 'was' 'responsible'
+ 'for' 'I' 'would' 'take' 'care' 'of' '.']"
+260	[30 44 38 33 40 30  7]	['0' '1' '2' '3' '4' '5' '6']	['You' 'have' 'to' 'constantly' 'challenge' 'yourself' '.']
+50	[33 30 44 30 38 40 26 16 42 23 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['Then' 'I' 'got' 'them' 'to' 'bring' 'peasants' 'from' 'surrounding'
+ 'area' 'altogether' '.']"
+54	[12 23 41 36 16 33 16 11 16 12 23 16 11 16 12 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['The' 'class' 'went' 'on' 'from' 'just' 'after' '10' 'in' 'the' 'morning'
+ 'until' 'five' 'in' 'the' 'afternoon' '.']"
+122	[10 49 22 30 40 12 16 42 12 17 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['And' 'how' 'could' 'I' 'keep' 'this' 'from' 'having' 'a' 'negative'
+ 'impact' '?']"
+5	[30 33 41 11 26 16 16 12 23 23 38 33 40 16 23 23 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['It' 'also' 'squeezed' '200,000' 'yuan' 'out' 'of' 'the' 'education'
+ 'fund' 'to' 'specially' 'use' 'in' 'education' 'disaster' 'relief' '.']"
+275	[24  6 47 44 30 40 16 12 24 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	['Nenad' ',' 'what' 'do' 'we' 'know' 'of' 'this' 'Milosevic' 'ally' '?']
+71	"[49 30 41 16 31 17 23  6 30 41  6 39  6 12 17 23 45 28 12 17 26  6 30 22
+ 38 40 26 16 12 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30']"	"['When' 'I' 'went' 'to' 'our' 'agricultural' 'bureau' ',' 'I' 'thought'
+ ',' 'huh' ',' 'the' 'agricultural' 'bureau' 'has' 'all' 'those'
+ 'technical' 'personnel' ',' 'they' 'ought' 'to' 'provide' 'services' 'to'
+ 'the' 'peasants' '.']"
+18	[30 41 18 16 11  8 16 30 41 17  6 17 11 23 26 41 12 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['They' 'invested' 'more' 'than' '400,000' ';' 'although' 'they' 'were'
+ 'poor' ',' 'several' 'hundred' 'family' 'heads' 'made' 'a' 'ruckus' '.']"
+213	[33 30 45 17 38 40 12 23  6 12 23 38 40  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['So' 'it' ""'s"" 'possible' 'to' 'convince' 'every' 'family' ',' 'every'
+ 'household' 'to' 'mobilize' '.']"
+184	[16 12 23 16 26 29 26  6 12 23 16 26 16 24 24 41 43  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['After' 'a' 'series' 'of' 'women' ""'s"" 'activities' ',' 'the' 'spirit'
+ 'of' 'villagers' 'in' 'Zhaizi' 'Village' 'had' 'changed' '.']"
+218	[12 26 44 43 16 12 23 45 43 16 12 26 29 26 16 17 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['The' 'peasants' 'have' 'seen' 'that' 'the' 'association' 'has'
+ 'safeguarded' 'for' 'the' 'peasants' ""'"" 'interests' 'at' 'crucial'
+ 'times' '.']"
+238	[12 23 45 33 17  7]	['0' '1' '2' '3' '4' '5']	['That' 'way' 'is' 'too' 'arbitrary' '.']
+128	[33  6 16 12 23 16 12 23  6  6 30 22 40 36 12 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['Then' ',' 'at' 'the' 'end' 'of' 'the' 'year' ',' ',' 'we' ""'ll"" 'settle'
+ 'up' 'the' 'differences' '.']"
+2	"[16 12 23 10 12 26 16 12 23 23 33 41 12 23 16 12 33 15 17 23 38 40 30  6
+ 33  6 19 16 12 23 23 29 17 10 17 26 44 43 16 17  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40']"	"['After' 'the' 'government' 'and' 'the' 'people' 'in' 'the' 'disaster'
+ 'area' 'actively' 'fought' 'the' 'disaster' 'in' 'an' 'all' '-' 'out'
+ 'effort' 'to' 'save' 'themselves' ',' 'now' ',' 'most' 'of' 'the'
+ 'disaster' 'area' ""'s"" 'primary' 'and' 'middle' 'schools' 'have' 'opened'
+ 'as' 'usual' '.']"
+303	"[33 30 44 16 24 45 16 33 17 23 16 24 24 24 22 40 12 23 18 23 16 17 16 12
+ 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25']"	"['So' 'I' 'believe' 'that' 'Washington' 'realizes' 'that' 'very' 'open'
+ 'support' 'for' 'Mr.' 'Vojislav' 'Kostunica' 'could' 'do' 'the' 'man'
+ 'more' 'harm' 'than' 'good' 'at' 'this' 'moment' '.']"
+164	"[10 12 23 46 41 33 41 12 26 33 33 40 16 24 24 41 12 23 16 23  6 10 31 23
+ 26 33 22 40 23 16 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31']"	"['And' 'a' 'thing' 'that' 'came' 'next' 'made' 'the' 'villagers' 'not'
+ 'only' 'see' 'that' 'Zheng' 'Bing' 'had' 'a' 'spirit' 'of' 'sacrifice'
+ ',' 'but' 'her' 'organizing' 'skills' 'also' 'could' 'instill'
+ 'confidence' 'in' 'people' '.']"
+306	[30 44 17 24  7]	['0' '1' '2' '3' '4']	['You' 'are' 'welcome' 'Tony' '.']
+14	[30 45 16 11 26 16 12 30 41 33 42 30 12 23 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['She' 'says' 'that' 'two' 'years' 'before' 'that' 'they' 'were' 'already'
+ 'calling' 'themselves' 'a' 'peasant' 'association' '.']"
+0	[24 24 24  6 24  6 24 23  6 16 26 24 24 10 24 24]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Xinhua' 'News' 'Agency' ',' 'Hangzhou' ',' 'September' '2nd' ',' 'by'
+ 'reporters' 'Haixiong' 'Shen' 'and' 'Xiquan' 'Shen']"
+76	"[17 24 33 41 36 12 23 15 42 23  6 42 16 23 16 30  8 30 41 12 26 40 36 12
+ 23 16 12 23 23 16 11 38 40 16 12 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36']"	"['Zheng' 'Bing' 'thereupon' 'set' 'up' 'a' 'poultry' '-' 'raising'
+ 'project' ',' 'serving' 'as' 'guarantor' 'for' 'it' ';' 'she' 'helped'
+ 'the' 'peasants' 'take' 'out' 'a' 'loan' 'from' 'a' 'credit' 'union'
+ 'for' '150,000' 'to' 'participate' 'in' 'this' 'project' '.']"
+74	[42 16 12 17 23  6 12 24 23 17 23 41 38 40 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Starting' 'with' 'the' 'technical' 'training' ',' 'the' 'Yongji'
+ 'peasant' 'cooperative' 'organization' 'began' 'to' 'take' 'shape' '.']"
+87	"[12 23 16 12 23 23 41 30 41 33 17  6  6 30 41 38 40 30 16 23  6 30 41 38
+ 40 36  6 39  6 31 23  6 10 33 40 31 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37']"	"['The' 'head' 'of' 'the' 'credit' 'union' 'said' 'it' 'was' ""n't"" 'OK' ','
+ ',' 'he' 'wanted' 'to' 'take' 'me' 'to' 'court' ',' 'he' 'wanted' 'to'
+ 'shut' 'down' ',' 'uh' ',' 'my' 'store' ',' 'and' 'even' 'confiscate'
+ 'my' 'home' '.']"
+104	[33 16 16 33 33  6 30 33 44 11 23 38 40  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['So' 'as' 'of' 'right' 'now' ',' 'I' 'still' 'have' '65,000' 'yuan' 'to'
+ 'pay' '.']"
+225	[16 23 23  6 30 41 12 23 23 23  6 16 12 23 16 11 26 16 11 23 16 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['For' 'construction' 'capital' ',' 'they' 'adopted' 'the' 'member'
+ 'shareholding' 'approach' ',' 'with' 'a' 'total' 'of' '300' 'shares' 'at'
+ '300' 'yuan' 'per' 'share' '.']"
+119	"[24 24 41 16 12 23 38 40 12 23  6 10 30 33 33 41 16 16 16 30 30 22 33 40
+ 36 16 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27']"	"['Zheng' 'Bing' 'thought' 'of' 'a' 'way' 'to' 'resolve' 'this' 'problem'
+ ',' 'but' 'she' 'absolutely' 'never' 'imagined' 'that' 'because' 'of'
+ 'it' 'she' 'would' 'nearly' 'end' 'up' 'in' 'prison' '.']"
+281	[12 17 23 16 23 16 24 10 24 41 43 16 11 23  6 24  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['The' 'whole' 'structure' 'of' 'power' 'in' 'Serbia' 'and' 'Yugoslavia'
+ 'was' 'based' 'on' 'one' 'man' ',' 'Milosevic' '.']"
+296	[39  6 49 45 12 17 23 42 16 12 23 16 12 23 16 12 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['Well' ',' 'how' 'is' 'the' 'international' 'community' 'dealing' 'at'
+ 'this' 'point' 'with' 'the' 'change' 'of' 'the' 'government' '?']"
+247	[33 33 30 33 41 12 23  6 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	['Just' 'now' 'you' 'repeatedly' 'used' 'a' 'word' ',' 'quality' '.']
+230	[12 26 41 38 40 23 26  6 10 30 33 41  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['Some' 'people' 'wanted' 'to' 'hold' 'controlling' 'shares' ',' 'but'
+ 'you' 'strongly' 'disagreed' '.']"
+289	"[40 30 40 12 17 23 33 16 17 17 26 16 12 23  6 16 23 16 26 16 24  6 10 12
+ 45 24  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26']"	"['Let' ""'s"" 'talk' 'a' 'little' 'bit' 'also' 'about' 'other' 'important'
+ 'policies' 'of' 'the' 'government' ',' 'of' 'importance' 'to' 'people'
+ 'outside' 'Yugoslavia' ',' 'and' 'that' 'is' 'Kosovo' '.']"
+92	[10 16 17 23 41 12 23  6 12 23 23 33 41 24 24 16 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['But' 'because' 'Zheng' 'Bing' 'was' 'the' 'guarantor' ',' 'the' 'credit'
+ 'union' 'still' 'took' 'Zheng' 'Bing' 'to' 'court' '.']"
+43	[16 12 23  6 12 23 16 12 23  6 30 41 33 23 16 12  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['At' 'the' 'time' ',' 'the' 'attendance' 'on' 'that' 'day' ',' 'it' 'was'
+ ""n't"" 'something' 'like' 'that' '.']"
+223	"[16 24 11  6 12 17 23 43 16 12 26 29 23 16 30 41 43  6 12 24 24 24 24  6
+ 41 43 36 10 41 16 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31']"	"['In' 'November' '2004' ',' 'the' 'first' 'business' 'operated' 'by' 'the'
+ 'peasants' ""'"" 'association' 'after' 'it' 'was' 'registered' ',' 'the'
+ 'Zhaizi' 'Village' 'Paint' 'Plant' ',' 'was' 'set' 'up' 'and' 'went'
+ 'into' 'production' '.']"
+51	[41 13 26 47 22 33 40 16 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['Were' 'there' 'people' 'who' 'could' 'not' 'get' 'in' 'to' 'the' 'class'
+ '?']"
+37	[30 41 33 33 16 23  7]	['0' '1' '2' '3' '4' '5' '6']	['It' 'was' 'kind' 'of' 'by' 'accident' '.']
+212	[33 13 45 23 16 12 23 16 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	"['So' 'there' ""'s"" 'none' 'of' 'this' 'feeling' 'of' 'dependency' '.']"
+251	[12 23 45 33 42 16 24 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	"['The' 'association' 'is' 'now' 'experimenting' 'in' 'Zhaizi' 'Village'
+ '.']"
+216	"[42 16 12 24 23  6 12 23 12 24 24 23 23 45 43 28 12 17 23  6 11 17 23 45
+ 12 23 16 12 23 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30']"	"['According' 'to' 'a' 'Yongji' 'official' ',' 'the' 'reason' 'the'
+ 'Zhaizi' 'Village' 'peasant' 'association' 'has' 'had' 'such' 'a' 'big'
+ 'impact' ',' 'one' 'major' 'reason' 'is' 'the' 'paralysis' 'of' 'the'
+ 'village' 'committee' '.']"
+22	"[12 17 23 41 43 33  6 10 30 33 41 12 23 16 12 23 23 16 12 26 16 12 17 26
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['The' 'entire' 'problem' 'was' 'resolved' 'smoothly' ',' 'and' 'it'
+ 'greatly' 'increased' 'the' 'prestige' 'of' 'the' 'peasant' 'association'
+ 'in' 'the' 'eyes' 'of' 'the' 'local' 'villagers' '.']"
+209	[13 41 12 26  7]	['0' '1' '2' '3' '4']	['There' 'were' 'no' 'clashes' '.']
+120	"[42 16 30 16 23 16 12  6 41 33 30 17 16 30 22 33 40 17 38 40 12 23 36 16
+ 12 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26']"	"['Selling' 'to' 'them' 'on' 'credit' 'like' 'that' ',' 'were' ""n't"" 'you'
+ 'concerned' 'that' 'you' 'would' ""n't"" 'be' 'able' 'to' 'get' 'the'
+ 'money' 'back' 'in' 'the' 'future' '?']"
+207	[39  7]	['0' '1']	['Yes' '.']
+297	"[47 45 13 10 47 23 16 23 44 30 42 10 47 45 12 17 23 16 31 42 33 16 12 23
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['Who' 'is' 'there' 'and' 'what' 'kind' 'of' 'assistance' 'are' 'they'
+ 'offering' 'or' 'what' 'is' 'the' 'symbolic' 'value' 'of' 'their' 'being'
+ 'there' 'at' 'this' 'point' '?']"
+158	[39  6 10 30 41  6 12 26  6 30 44 12 23 16 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Oh' '!' 'But' 'I' 'felt' ',' 'the' 'peasants' ',' 'they' 'need' 'this'
+ 'kind' 'of' 'service' '.']"
+206	[10 12 23 45 16 30 30 41 12 23 23 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['But' 'the' 'fact' 'is' 'that' 'you' 'yourselves' 'selected' 'the'
+ 'village' 'construction' 'council' '.']"
+155	[33 16 12 23 30 41 31 23 16 12  6 10 31 23  6 30 41 33 40  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['So' 'at' 'the' 'time' 'I' 'told' 'my' 'husband' 'about' 'this' ',' 'and'
+ 'my' 'husband' ',' 'he' 'did' ""n't"" 'agree' '.']"
+233	"[ 6 16 30 41 42  6  6 12 23 23  6 33 33  6 16 12 23  6 30 41  6 30 44 38
+ 40 23 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27']"	"[',' 'as' 'we' 'were' 'organizing' ',' ',' 'the' 'paint' 'plant' ','
+ 'right' 'away' ',' 'at' 'the' 'meeting' ',' 'they' 'proposed' ',' 'I'
+ 'want' 'to' 'hold' 'controlling' 'shares' '.']"
+96	"[16 12 23 41  6 30 41 12 26 16 30  6 30 41  6 12 23 23 45 33 43 23 16 30
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['After' 'the' 'lawyer' 'came' ',' 'he' 'explained' 'these' 'things' 'to'
+ 'me' ',' 'he' 'said' ',' 'the' 'credit' 'union' 'has' 'already' 'filed'
+ 'suit' 'against' 'you' '.']"
+1	"[23 24 11 45 43 12 23 23 16 12 23 26 16 24 38 40 17 26  6 10 12 23 26 16
+ 26 10 26 42 43 43 45 43 11  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33']"	"['Typhoon' 'No.' '17' 'has' 'caused' 'the' 'education' 'system' 'of' 'the'
+ 'disaster' 'areas' 'of' 'Zhejiang' 'to' 'suffer' 'heavy' 'losses' ','
+ 'and' 'the' 'number' 'schools' 'with' 'dormitories' 'and' 'facilities'
+ 'having' 'been' 'damaged' 'has' 'reached' '1500' '.']"
+288	"[30 44 33 43 24 26 16 30 44 42 38 40 36 12 26 16 12 26 33 16 16 12 33 17
+ 23 22 40 43  6 33 33 16 12 17 23  6 10 33 16 12 23 16 12 24 16 24  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42' '43'
+ '44' '45' '46']"	"['They' 'have' 'indeed' 'threatened' 'Milosevic' 'allies' 'that' 'they'
+ 'are' 'going' 'to' 'bring' 'out' 'the' 'people' 'onto' 'the' 'streets'
+ 'again' 'so' 'that' 'a' 'completely' 'new' 'authority' 'can' 'be'
+ 'established' ',' 'not' 'just' 'on' 'the' 'federal' 'level' ',' 'but'
+ 'also' 'on' 'the' 'level' 'of' 'the' 'Republic' 'of' 'Serbia' '.']"
+136	"[17 23  6 16 33  6  6 12 23 23  6 17 23  6 12 23  6 33 30 41 42 24 24 45
+ 42 23 33  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27']"	"['Good' 'grief' '!' 'At' 'first' ',' ',' 'that' 'credit' 'union' ','
+ 'Good' 'grief' '!' 'That' 'service' ',' 'everywhere' 'they' 'were'
+ 'saying' 'Zheng' 'Bing' 'is' 'raising' 'capital' 'illegally' '.']"
+204	[16  6 33 16 12  6 12 26 44 12 23 16 23 16 12 16 30  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['Because' ',' 'first' 'of' 'all' ',' 'these' 'lanes' 'are' 'a' 'matter'
+ 'of' 'concern' 'to' 'all' 'of' 'us' '.']"
+141	[16 30 12 41  6 30 41 16 30  6 24 24  6 30 44 38 40 31 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['After' 'they' 'all' 'came' ',' 'they' 'said' 'to' 'me' ',' 'Zheng'
+ 'Bing' ',' 'we' 'need' 'to' 'investigate' 'your' 'business' '.']"
+231	[10 30 33 41 33 40 38 40 17 26 29 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['And' 'you' 'absolutely' 'did' ""n't"" 'want' 'to' 'hear' 'other' 'people'
+ ""'s"" 'opinions' '.']"
+232	[39  7]	['0' '1']	['Yes' '.']
+302	"[30 22 40 26  6 33 16 17 26  6 16 24 24 24  6 10 12 24 24 45 42 12 17 23
+ 16 13 45 28 12 23 16 17 23 16 12 26 33 16 24  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39']"	"['He' 'will' 'hold' 'talks' ',' 'probably' 'behind' 'closed' 'doors' ','
+ 'with' 'President' 'Vojislav' 'Kostunica' ',' 'but' 'the' 'United'
+ 'States' 'is' 'keeping' 'a' 'low' 'profile' 'because' 'there' 'is'
+ 'quite' 'a' 'lot' 'of' 'anti-American' 'sentiment' 'on' 'the' 'streets'
+ 'here' 'in' 'Serbia' '.']"
+64	[16 24 16 11  6 12 23 30 44 43 11 38 11 23 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Since' 'December' 'of' ""'98"" ',' 'each' 'year' 'we' ""'ve"" 'held' 'four'
+ 'to' 'six' 'training' 'sessions' '.']"
+298	[39  6 16 12 23 30 45 12 23  6 47 45 42 38 40 16 24 33  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['Well' ',' 'at' 'the' 'moment' 'it' 'is' 'a' 'race' ',' 'who' 'is'
+ 'going' 'to' 'get' 'to' 'Belgrade' 'first' '.']"
+66	[39  6 33 33  7]	['0' '1' '2' '3' '4']	['Um' ',' 'not' 'necessarily' '.']
+9	[33 33 12 23 45 33 43 18 16 11 26 16 26 16 12 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['So' 'far' 'this' 'city' 'has' 'already' 'received' 'more' 'than'
+ '1,000,000' 'yuan' 'in' 'donations' 'of' 'all' 'kinds' '.']"
+154	[30 22 33 40 23 29 23 10 40 30 16 31 17  6 38 40 23 16 30  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['You' 'ca' ""n't"" 'take' 'everybody' ""'s"" 'business' 'and' 'run' 'it' 'as'
+ 'your' 'own' ',' 'to' 'make' 'money' 'for' 'yourself' '.']"
+252	[33 33  6 12 26 44 30  6 12 24 11  6 47 45 12 40  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['Of' 'course' ',' 'some' 'people' 'ask' 'you' ',' 'this' 'Number' 'One'
+ ',' 'what' 'does' 'that' 'imply' '?']"
+215	[16 12 23  6 30 41 33 33 17 38 40 12 23 43  6 38 40 30  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['In' 'the' 'end' ',' 'it' 'was' 'actually' 'very' 'difficult' 'to' 'get'
+ 'this' 'thing' 'done' ',' 'to' 'complete' 'it' '.']"
+21	[16 12 23  6 12 23 41 33 10 40 12 26 40 16 12 26 38 40 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['In' 'the' 'end' ',' 'the' 'contractor' 'came' 'around' 'and' 'let' 'the'
+ 'kids' 'go' 'into' 'the' 'classrooms' 'to' 'attend' 'classes' '.']"
+27	[10 49 30 41 30  6 30 41 30 41 23 47 33 41 38 40 17 17  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['But' 'when' 'I' 'saw' 'her' ',' 'I' 'felt' 'she' 'was' 'someone' 'who'
+ 'really' 'wanted' 'to' 'be' 'low' 'key' '.']"
+157	[44 33 40 30 40 26  6 33 30 22  6 40 17 38 40 12 23 10 40 12 23 42  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['Do' ""n't"" 'let' 'them' 'become' 'shareholders' ',' 'then' 'we' ""'ll"" ','
+ 'be' 'able' 'to' 'loan' 'the' 'money' 'and' 'get' 'the' 'business'
+ 'going' '.']"
+200	[10 12 26 41 30 33  7]	['0' '1' '2' '3' '4' '5' '6']	['and' 'the' 'villagers' 'discussed' 'it' 'collectively' '.']
+217	[17 16 12 26 46 12 23 23 41 33 43 38 40 12 26 29 23 33 45  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['Many' 'of' 'the' 'things' 'that' 'the' 'village' 'committee' 'was'
+ 'originally' 'supposed' 'to' 'do' 'the' 'peasants' ""'"" 'association'
+ 'now' 'does' '.']"
+34	[33  6 24 24 10 31 23 41 12 23 23 23 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['Previously' ',' 'Zheng' 'Bing' 'and' 'her' 'husband' 'ran' 'a'
+ 'chemical' 'fertilizer' 'store' 'here' '.']"
+268	[30 45 33 40 30  8 30 44 30 45 33 17  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['It' 'does' ""n't"" 'pain' 'me' ';' 'I' 'feel' 'it' ""'s"" 'very'
+ 'worthwhile' '.']"
+179	[12 17 23  6 30 41 33 40 12 17 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['The' 'whole' 'afternoon' ',' 'we' 'did' ""n't"" 'learn' 'a' 'single'
+ 'step' '.']"
+60	[12 17 23  6 12 23 16 24 24 29 41 36 18 16 11 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['The' 'next' 'year' ',' 'this' 'shop' 'of' 'Zheng' 'Bing' ""'s"" 'took'
+ 'in' 'more' 'than' '60,000' 'yuan' '.']"
+39	"[16 30 41 42 31 23  6 30 41 16 12 26 41 42 12 23 38 40 23 16 12 33 17 23
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['While' 'I' 'was' 'helping' 'my' 'husband' ',' 'I' 'discovered' 'that'
+ 'the' 'peasants' 'were' 'investing' 'the' 'money' 'to' 'buy' 'fertilizer'
+ 'in' 'a' 'very' 'haphazard' 'way' '.']"
+15	[16 12 23 12 23 41 33 43 36  6 30 41 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['At' 'the' 'time' 'the' 'association' 'was' 'just' 'set' 'up' ',' 'it'
+ 'ran' 'into' 'an' 'issue' '.']"
+300	"[30 33 41 12 17 23 24 24 47 41 16 24 23 38 40 36 35 33 12 23 16 12 17 24
+ 23 24 24  6 47 45 42 16 24  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33']"	"['We' 'also' 'saw' 'the' 'American' 'diplomat' 'Willie' 'Montgomery' 'who'
+ 'arrived' 'in' 'Belgrade' 'today' 'to' 'set' 'up' 'most' 'probably' 'a'
+ 'meeting' 'between' 'a' 'senior' 'U.S.' 'official' 'James' ""O'brien"" ','
+ 'who' 'is' 'coming' 'to' 'Belgrade' '.']"
+219	[24 24 45 12 23 16 11 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	['Zhaizi' 'Village' 'has' 'a' 'total' 'of' '263' 'households' '.']
+90	[30 23 29 33 42 10 42 30 41 16 24 24 29 17 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Her' 'husband' ""'s"" 'not' 'understanding' 'and' 'blaming' 'her' 'added'
+ 'to' 'Zheng' 'Bing' ""'s"" 'psychological' 'burden' '.']"
+210	[16 12 23  6 30 41 12 23  8 16 31 23 23 41 38 40 12  6 30 41 12 17 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23']"	"['For' 'the' 'selection' ',' 'we' 'did' 'the' 'selection' ';' 'if' 'our'
+ 'village' 'committee' 'wanted' 'to' 'do' 'this' ',' 'it' 'had' 'this'
+ 'objective' 'difficulty' '.']"
+295	"[12 23 16 12 23 33 10 12 23 41 33 33 43 16 33 16 33  6 12 17 26 10 23 41
+ 16 12 26 16 24  6 10 12 17 23 41 33 40 38 40 23 38 40 16 12 24 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42' '43'
+ '44' '45' '46']"	"['That' 'part' 'of' 'the' 'resolution' 'here' 'and' 'the' 'resolution'
+ 'was' 'never' 'actually' 'applied' 'because' 'right' 'until' 'now' ','
+ 'the' 'Yugoslav' 'police' 'and' 'military' 'were' 'in' 'the' 'hands' 'of'
+ 'Milosevic' ',' 'so' 'the' 'international' 'community' 'did' ""n't"" 'want'
+ 'to' 'have' 'anything' 'to' 'do' 'with' 'the' 'Milosevic' 'forces' '.']"
+257	[12 45 12 11 15 23 23 30 44 43 16 30  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['This' 'is' 'the' '10' '-' 'year' 'goal' 'we' 'have' 'established' 'for'
+ 'ourselves' '.']"
+189	"[33 33 33  6 24 24 10 12 17 26 16 12 26 29 23 41 23 46 41 12 26 38 40 12
+ 17 26 16 12 26 29 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31']"	"['Not' 'long' 'after' ',' 'Zheng' 'Bing' 'and' 'the' 'key' 'members' 'of'
+ 'the' 'peasants' ""'"" 'association' 'did' 'something' 'that' 'allowed'
+ 'the' 'villagers' 'to' 'see' 'the' 'direct' 'advantages' 'of' 'the'
+ 'peasants' ""'"" 'association' '.']"
+170	[39  7]	['0' '1']	['Wow' '!']
+65	[44 30 33 40 38 40 12 23 16 30  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	['Do' 'you' 'still' 'need' 'to' 'provide' 'the' 'money' 'for' 'them' '?']
+266	[16 30 33 44 30 36  6 31 23 45 43 16 18 16 11  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['If' 'you' 'really' 'total' 'it' 'up' ',' 'my' 'family' 'has' 'paid'
+ 'out' 'more' 'than' '200,000' '.']"
+116	"[33 30 41 42 30 22 40 12 26 38 40 31 26  6 10 16 16 12 30 41 36 12 23 16
+ 11 23  6 10 30 41 43 16 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33']"	"['Originally' 'I' 'was' 'thinking' 'I' ""'d"" 'help' 'the' 'peasants' 'to'
+ 'raise' 'their' 'incomes' ',' 'but' 'because' 'of' 'that' 'I' 'took' 'on'
+ 'a' 'debt' 'of' '150,000' 'yuan' ',' 'and' 'I' 'got' 'taken' 'to' 'court'
+ '.']"
+214	[16  6 30 45 23 41  7]	['0' '1' '2' '3' '4' '5' '6']	"['Because' ',' 'it' ""'s"" 'everybody' 'agreed' '.']"
+239	"[30 41  6 33 30 40 33 10 40 36 16 47 12 17 23 45 33 16  6 33 40 33 10 30
+ 22 40  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26']"	"['I' 'said' ',' 'first' 'you' 'go' 'home' 'and' 'study' 'up' 'on' 'what'
+ 'the' 'coop' 'system' 'is' 'all' 'about' ',' 'then' 'come' 'back' 'and'
+ 'we' ""'ll"" 'talk' '.']"
+235	[30 45 33 12 23 15 23 23  6 12 23 23  6 16 30 41 33 43 12 23 16 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['It' ""'s"" 'not' 'a' 'joint' '-' 'stock' 'company' ',' 'the' 'paint'
+ 'plant' ',' 'because' 'we' 'had' 'already' 'announced' 'that'
+ 'information' 'in' 'advance' '.']"
+3	"[24 24 29 24 24 45 33 43 36 42 26 38 33 40 16 17 26 16 24  6 24  6 14 38
+ 40 12 23 23 23 16 12 23 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33']"	"['Zhejiang' 'Province' ""'s"" 'Education' 'Department' 'has' 'recently'
+ 'sent' 'out' 'working' 'teams' 'to' 'separately' 'go' 'to' 'such'
+ 'places' 'as' 'Wenzhou' ',' 'Taizhou' ',' 'etc.' 'to' 'direct' 'the'
+ 'education' 'restoration' 'work' 'in' 'the' 'disaster' 'area' '.']"
+259	[30 44 38 33 40 31 17 17  6 17 26 16 23 10 17 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['You' 'have' 'to' 'constantly' 'overcome' 'your' 'own' 'traditional' ','
+ 'conservative' 'kinds' 'of' 'thinking' 'and' 'antiquated' 'concepts' '.']"
+166	[30 41 49 22 33 30 40  6 16 12 26 16 12 23  6 42 16 12 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['I' 'said' 'why' 'could' ""n't"" 'it' 'be' ',' 'like' 'the' 'women' 'in'
+ 'the' 'city' ',' 'dancing' 'in' 'the' 'summer' '.']"
+134	[30 41 12 23  7]	['0' '1' '2' '3' '4']	['It' 'had' 'no' 'impact' '.']
+202	[33  6 49 41 30 17 16 30 22 40 12 26 46 12 23 23 41 33 17 38  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20']"	"['Indeed' ',' 'why' 'were' 'you' 'confident' 'that' 'you' 'could' 'handle'
+ 'the' 'matters' 'that' 'the' 'village' 'committee' 'was' ""n't"" 'able'
+ 'to' '?']"
+171	[12 17 23  6 12 17 23  6 30 33 41 36 11 15 12 26 16 31 23 38 40  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21']"	"['That' 'first' 'time' ',' 'the' 'first' 'afternoon' ',' 'We' 'first'
+ 'got' 'together' '20' '-' 'some' 'women' 'in' 'our' 'village' 'to'
+ 'dance' '.']"
+32	[16 30 44 11 26 33 16 24 16 24  6 30 44 16 24 24  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['If' 'you' 'go' '13' 'kilometers' 'west' 'of' 'Yongji' 'in' 'Shanxi' ','
+ 'you' 'come' 'to' 'Zhaizi' 'Village' '.']"
+159	[47 22 40 43 16 31 23 22 40 33 43  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['Who' 'would' 'have' 'guessed' 'that' 'my' 'husband' 'would' 'be'
+ 'strongly' 'opposed' '.']"
+248	[47 23 45 30 46 30 44 42 16  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	"['What' 'quality' 'is' 'it' 'that' 'you' ""'re"" 'referring' 'to' '?']"
+265	[10 49 17 16 31 23 29 17 23 44 30 43  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['So' 'how' 'much' 'of' 'your' 'family' ""'s"" 'own' 'money' 'have' 'you'
+ 'contributed' '?']"
+264	[30 33 44 26 40 16 23 10 40 30 36 16 23 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14']	"['They' 'also' 'let' 'members' 'buy' 'on' 'credit' 'and' 'pay' 'it' 'off'
+ 'at' 'harvest' 'time' '.']"
+224	[16 12 23 23  6 24 24 10 12 23 26 41 16 12 23 16 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['In' 'the' 'shareholding' 'issue' ',' 'Zheng' 'Bing' 'and' 'the'
+ 'association' 'members' 'ran' 'into' 'a' 'succession' 'of' 'problems' '.']"
+242	[10 12 17 23 33  6 23 33 41 16 24 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['But' 'a' 'short' 'time' 'later' ',' 'everyone' 'again' 'clashed' 'with'
+ 'Zheng' 'Bing' '.']"
+287	"[33  6 24 24 10 12 24 24 16 24 45 43 33 33 23 16 30 22 33 40 36 16 12 23
+ 16 23 16 33 34  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29']"	"['However' ',' 'Mr.' 'Kostunica' 'and' 'the' 'Democratic' 'Alliance' 'of'
+ 'Serbia' 'has' 'said' 'very' 'openly' 'today' 'that' 'they' 'will' 'not'
+ 'put' 'up' 'with' 'this' 'kind' 'of' 'behavior' 'for' 'much' 'longer' '.']"
+147	[12 23 16 42 23 33 45 33 12 17 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['An' 'accusation' 'of' 'raising' 'capital' 'illegally' 'is' 'not' 'a'
+ 'small' 'matter' '.']"
+290	[13 45 43 12 23 42 36 16 17 26 44 42 38 40 16 24 16 12 23 16 12 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['There' 'has' 'been' 'some' 'news' 'coming' 'out' 'that' 'Yugoslav'
+ 'troops' 'are' 'going' 'to' 'return' 'to' 'Kosovo' 'by' 'the' 'end' 'of'
+ 'the' 'year' '.']"
+25	[16 12 26 16 23  6 12 23 41 16 24 16 24 38 40 12 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['With' 'these' 'questions' 'in' 'mind' ',' 'this' 'reporter' 'came' 'to'
+ 'Yongji' 'in' 'Shanxi' 'to' 'get' 'the' 'scoop' '.']"
+42	[12 17 23  6 16 23  6 12 17 23 41 17  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['The' 'first' 'time' ',' 'in' 'fact' ',' 'the' 'first' 'time' 'was'
+ 'unimaginable' '.']"
+161	[33  6 30 41  7]	['0' '1' '2' '3' '4']	['Finally' ',' 'he' 'agreed' '.']
+294	"[33 30 45 33 28 12 17 23 16 23 16 12 23 16 30 22 40 16 12 23 16 12 24 24
+ 23  6 11  6 45 33 40 16 12 23 16 17 26 10 26 16 12 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42']"	"['Basically' 'it' 'is' 'not' 'such' 'a' 'threatening' 'sort' 'of' 'bit'
+ 'of' 'a' 'news' 'as' 'it' 'might' 'seem' 'at' 'the' 'moment' 'because'
+ 'the' 'United' 'Nations' 'resolution' ',' '1244' ',' 'does' 'actually'
+ 'provide' 'for' 'the' 'presence' 'of' 'Yugoslav' 'troops' 'and' 'police'
+ 'on' 'the' 'borders' '.']"
+79	[10 33 30 33 41  6 39  7]	['0' '1' '2' '3' '4' '5' '6' '7']	['But' 'then' 'it' 'actually' 'failed' ',' 'alas' '!']
+23	[10 49 41 12 23 23 40 43 16 12 23 46 22 40 43 43 16 12 23 24 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21']"	"['But' 'why' 'did' 'a' 'peasant' 'organization' 'get' 'involved' 'in' 'a'
+ 'matter' 'that' 'should' 'have' 'been' 'resolved' 'by' 'the' 'village'
+ 'Party' 'committee' '?']"
+183	[33 40  6 11 23 16 31 23  6 33 33 11 26 41 36  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Just' 'imagine' ',' '80' '%' 'of' 'our' 'village' ',' 'that' 'is' '120'
+ 'women' 'joined' 'in' '.']"
+190	[49 41 12 23 23 23 43  7]	['0' '1' '2' '3' '4' '5' '6' '7']	['When' 'was' 'the' 'village' 'construction' 'council' 'established' '?']
+249	[12 23 30 44 12 23 26 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	"['Every' 'month' 'we' 'give' 'the' 'association' 'members' 'a' 'report'
+ '.']"
+258	"[10 16 30 44 38 40 12 11 23 26  6 30 45 33 33 16 30 22 40 30 10 12 45 30
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['But' 'if' 'we' 'want' 'to' 'achieve' 'these' 'two' 'Number' ""One's_"" ','
+ 'it' ""'s"" 'not' 'just' 'that' 'you' 'can' 'say' 'it' 'and' 'that' ""'s""
+ 'it' '.']"
+17	[12 23 41 12 23 23 10 40 12 23 16 12 23 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14']	"['The' 'school' 'built' 'a' 'classroom' 'building' 'and' 'put' 'a' 'lock'
+ 'on' 'the' 'gate' 'door' '.']"
+263	"[12 26 29 23 45 33 40 12 23 26  8 12 11 17 23 26 46 44 16 30 44 12 26 12
+ 11 15 23 23 16 12 23 16 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33']"	"['The' 'peasants' ""'"" 'association' 'does' ""n't"" 'collect' 'any'
+ 'membership' 'dues' ';' 'the' 'six' 'technical' 'service' 'centers'
+ 'that' 'belong' 'to' 'it' 'give' 'the' 'members' 'a' 'two' '-' 'yuan'
+ 'discount' 'on' 'each' 'sack' 'of' 'fertilizer' '.']"
+236	[33 33 30 41 42 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	['So' 'then' 'we' 'began' 'squabbling' 'at' 'the' 'meeting' '.']
+13	[31 23 45 24 24  7]	['0' '1' '2' '3' '4' '5']	['Its' 'president' 'is' 'Zheng' 'Bing' '.']
+152	[33 12 23 23 41 31 23 38 40 23  8 49 41 30 40 38 40 30 33  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['Essentially' 'this' 'fertilizer' 'store' 'enabled' 'your' 'family' 'to'
+ 'earn' 'money' ';' 'why' 'did' 'you' 'want' 'to' 'give' 'it' 'away' '?']"
+220	"[12 23 16 26 46 41 26 16 12 23 41 16 16 12 11 16 12 26 41 43 16 18 16 11
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['The' 'number' 'of' 'households' 'that' 'became' 'members' 'of' 'the'
+ 'association' 'went' 'from' 'over' 'a' 'hundred' 'before' 'the' 'lanes'
+ 'were' 'fixed' 'to' 'more' 'than' '200' '.']"
+29	[10 30 41 16 31 23  6 31 23 10 23  6 10 30 41 17 10 17  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['And' 'she' 'spoke' 'about' 'her' 'family' ',' 'her' 'husband' 'and'
+ 'child' ',' 'and' 'she' 'looked' 'concerned' 'and' 'haggard' '.']"
+174	[41 16 47  7]	['0' '1' '2' '3']	['Laughed' 'at' 'what' '?']
+267	"[16 12 26 29 23  6 10 42 12 26  6 30 41 11 15 10  6 28 12 17 23  6 45 33
+ 12 40 30  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27']"	"['For' 'the' 'peasants' ""'"" 'association' ',' 'and' 'organizing' 'the'
+ 'peasants' ',' 'you' 'invested' '200,000' '-' 'plus' ',' 'such' 'a'
+ 'huge' 'sum' ',' 'does' ""n't"" 'that' 'pain' 'you' '?']"
+273	"[24 29 26 41 12 25 16 42 38 40 36 16 12 26 16 23 10 16 16 16 23  6 30 41
+ 43 16 12 17 24 23 45 42 36 12 24 24  6 46 45 12 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41']"	"['Kostunica' ""'s"" 'people' 'accused' 'the' 'Socialists' 'of' 'trying' 'to'
+ 'hold' 'on' 'to' 'the' 'institutions' 'of' 'power' 'and' 'as' 'if' 'on'
+ 'cue' ',' 'it' 'was' 'announced' 'that' 'a' 'key' 'Milosevic' 'loyalist'
+ 'is' 'taking' 'over' 'the' 'Interior' 'Ministry' ',' 'which' 'runs' 'the'
+ 'police' '.']"
+188	[10 16 12 23 42 10 42 26 44 33 40 12 17 26 16 12 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['But' 'in' 'the' 'end' 'dancing' 'and' 'playing' 'chess' 'do' ""n't""
+ 'achieve' 'any' 'real' 'benefits' 'for' 'the' 'villagers' '.']"
+168	[30 41  6 49 22 33 30 40 43 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['I' 'said' ',' 'why' 'ca' ""n't"" 'we' 'be' 'compared' 'to' 'the' 'city'
+ '?']"
+84	[16 23 41 38 40 30 36  6 30 22 33 40 30 36  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14']	"['If' 'nobody' 'wanted' 'to' 'pay' 'it' 'back' ',' 'I' 'would' 'gradually'
+ 'pay' 'it' 'off' '.']"
+241	[31 23 16 42 12 23 23  6 45 33 30 38 40 23 29 23 38 40 31 17 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21']"	"['Your' 'aim' 'in' 'holding' 'a' 'controlling' 'share' ',' 'is' ""n't"" 'it'
+ 'to' 'use' 'everybody' ""'s"" 'capital' 'to' 'serve' 'your' 'own'
+ 'interests' '?']"
+305	[44 30 33 33 16 42 16 30  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	['Thank' 'you' 'very' 'much' 'for' 'speaking' 'with' 'us' '.']
+69	[33 16 30 41 12 23 23 11 26 12 23 30 41 33 42 33 17 16 30 41 38 40  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['Therefore' 'if' 'we' 'did' 'a' 'training' 'session' 'four' 'times' 'a'
+ 'year' 'we' 'were' ""n't"" 'earning' 'as' 'much' 'as' 'we' 'had' 'to'
+ 'spend' '.']"
+309	[]	[]	[]
+35	[33  6 30 44 43 12 23 23 16 12 25 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['Now' ',' 'they' 'have' 'donated' 'the' 'fertilizer' 'store' 'to' 'the'
+ 'Peasants' 'Association' '.']"
+301	[30 22 40 33 23 16 12 17 23 16 24 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['He' 'will' 'be' 'here' 'tomorrow' 'as' 'a' 'special' 'representative'
+ 'for' 'President' 'Clinton' '.']"
+175	[30 41 17  7]	['0' '1' '2' '3']	['They' 'were' 'embarrassed' '!']
+24	[22 23 26 40 12 23 16 43 17 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	"['Will' 'peasant' 'associations' 'become' 'a' 'direction' 'of' 'organized'
+ 'rural' 'development' '?']"
+193	[39  7]	['0' '1']	['Yikes' '!']
+178	"[16 16 12 23  6 16 12 23 16 31 23  6 12 23 41  6 33 17  6 10 30 41 12 42
+ 33  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25']"	"['Because' 'at' 'the' 'time' ',' 'in' 'the' 'courtyard' 'of' 'our' 'home'
+ ',' 'The' 'teacher' 'was' ',' 'extremely' 'conscientious' ',' 'and'
+ 'they' 'were' 'all' 'laughing' 'hard' '.']"
+133	[12 17 23 30 41 39  6 11  8 16 31 23 30 41 11 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['The' 'first' 'year' 'I' 'did' 'uh' ',' 'eight' ';' 'in' 'our' 'village'
+ 'I' 'did' '20' 'households' '.']"
+198	[12 23 30 41 39 41  6 31 23 23 41 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['The' 'reason' 'they' 'said' 'no' 'was' ',' 'our' 'village' 'committee'
+ 'had' 'no' 'money' '.']"
+271	"[12 23 16 24 41 38 40 17 23 49 26 16 26 16 26 41 12 23 16 24 24  6 10 33
+ 12 26 16 17 23 44 42 38 40 16 23 11  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36']"	"['The' 'drama' 'in' 'Yugoslavia' 'seemed' 'to' 'climax' 'last' 'thursday'
+ 'when' 'hundreds' 'of' 'thousands' 'of' 'protesters' 'forced' 'the'
+ 'ouster' 'of' 'Slobodan' 'Milosevic' ',' 'but' 'now' 'the' 'events' 'of'
+ 'last' 'week' 'are' 'beginning' 'to' 'look' 'like' 'act' 'I' '.']"
+68	[10 12 23  6 12 23 30 41 41 11 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['And' 'that' 'year' ',' 'the' 'income' 'I' 'counted' 'was' '4,000' 'yuan'
+ '.']"
+304	[12 24 29 24 24 16 24  7]	['0' '1' '2' '3' '4' '5' '6' '7']	"['The' 'World' ""'s"" 'Nenad' 'Chebeck' 'in' 'Belgrade' '.']"
+138	[16 30 22 40 30 16 16 17 26 16 26 10 33 30 22 40 12 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['If' 'she' 'could' 'cheat' 'you' 'out' 'of' 'several' 'tens' 'of'
+ 'thousands' 'and' 'then' 'she' 'could' 'leave' 'the' 'country' '!']"
+211	[10 33 12 23 23 23 16 30  6 13 45 23 47 45 23 16 30  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['And' 'now' 'this' 'village' 'construction' 'council' 'of' 'ours' ','
+ 'there' ""'s"" 'nobody' 'who' 'has' 'anything' 'against' 'it' '.']"
+234	[30 41 47 30 44 42 45  6 12 17 23 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['I' 'said' 'what' 'we' ""'re"" 'running' 'is' ',' 'a' 'cooperative' 'paint'
+ 'plant' '.']"
+255	[33  6  6 30 44 12 17 17 23 16 31 26 38 40 23 11  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['Second' ',' ',' 'we' 'want' 'the' 'overall' 'cultural' 'quality' 'of'
+ 'our' 'villagers' 'to' 'be' 'number' 'one' '.']"
+286	"[12 26 46 30 44 16 12 23 10 46 30 44 16 44 17 10 17 16 24 26 42 16 23 42
+ 16 12 10 42 38 40 16 16 46 17 23 30 44 16 12 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40']"	"['The' 'people' 'that' 'I' 'see' 'on' 'the' 'street' 'and' 'that' 'I'
+ 'hear' 'from' 'are' 'sick' 'and' 'tired' 'of' 'Milosevic' 'cronies'
+ 'appearing' 'on' 'television' 'protesting' 'against' 'this' 'and'
+ 'trying' 'to' 'hang' 'on' 'to' 'whatever' 'little' 'power' 'they' 'have'
+ 'at' 'the' 'moment' '.']"
+254	[33  6 30 44 31 26 29 17 23 16 12 17 23 38 40 12 17 16 12 16 24  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21']"	"['First' ',' 'we' 'want' 'our' 'villagers' ""'"" 'whole' 'concept' 'of'
+ 'the' 'legal' 'system' 'to' 'be' 'the' 'first' 'in' 'all' 'of' 'China'
+ '.']"
+291	[47 22 30 40 30 16 47 12 17 23 22 40 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['What' 'can' 'you' 'tell' 'us' 'about' 'what' 'this' 'new' 'government'
+ 'will' 'do' 'in' 'that' 'area' '?']"
+243	[13 44 11 26 16 12 23 46 41 43 16 17 10 17 10 33 17 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['There' 'are' 'twelve' 'households' 'in' 'the' 'village' 'that' 'were'
+ 'categorized' 'as' 'retarded' 'or' 'disabled' 'and' 'extremely' 'poor'
+ 'households' '.']"
+55	[39  6 49 12 23 41 33  6 17 16 12 26 41 12 23 16 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['Hey' ',' 'when' 'that' 'class' 'was' 'over' ',' 'many' 'of' 'the'
+ 'peasants' 'had' 'a' 'lot' 'of' 'feedback' '.']"
+237	[30 22 33 40 30 12 23  6]	['0' '1' '2' '3' '4' '5' '6' '7']	"['You' 'ca' ""n't"" 'do' 'it' 'this' 'way' ',']"
+250	"[16 30 41 12 23  6 30 41 36 12 23  6 10  6 30 41 12 23  6 38 40 12 24 11
+ 24 16 24 16 11 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30']"	"['As' 'we' 'began' 'this' 'year' ',' 'we' 'put' 'out' 'a' 'report' ','
+ 'and' ',' 'it' 'presented' 'a' 'goal' ',' 'to' 'become' 'the' 'Number'
+ 'One' 'Village' 'in' 'China' 'within' 'ten' 'years' '.']"
+135	[16 12 17 23  6 30 41 38 33 40 16 23  6 10 30 12 41  6 10 30 41 30 17  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23']"	"['By' 'the' 'second' 'year' ',' 'I' 'began' 'to' 'really' 'deal' 'with'
+ 'everybody' ',' 'and' 'they' 'all' 'knew' ',' 'and' 'I' 'made' 'it'
+ 'public' '.']"
+274	[12 24 29 24 24 45 16 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	"['The' 'World' ""'s"" 'Nenad' 'Chebeck' 'is' 'in' 'Belgrade' '.']"
+153	[16 16 12 23 23 41 43 12 23  6 10 16 30 41  6 30 41 23 29 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20']"	"['Because' 'at' 'the' 'time' 'everybody' 'had' 'become' 'a' 'shareholder'
+ ',' 'and' 'once' 'they' 'had' ',' 'it' 'was' 'everybody' ""'s"" 'business'
+ '.']"
+56	[39  6  6 12 23 41 33  7]	['0' '1' '2' '3' '4' '5' '6' '7']	['Hey' ',' ',' 'the' 'class' 'went' 'great' '.']
+126	[33 33  6 16 23  6 30 44 12 26 40 11 23 16 12 23 16 23  6 40  6 11 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23']"	"['So' 'then' ',' 'in' 'practice' ',' 'I' 'let' 'the' 'peasants' 'invest'
+ '50' 'yuan' 'for' 'each' 'mu' 'of' 'land' ',' 'invest' ',' '50' 'yuan'
+ '.']"
+49	[33  6 16 12 11 26  6 30 41 11 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['Finally' ',' 'from' 'the' 'ten' 'villages' ',' 'I' 'chose' '80' 'women'
+ '.']"
+261	[33 12 23 23  6 30 33 45 12 23 16 23 16 30  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14']	"['So' 'this' 'quality' 'thing' ',' 'it' 'really' 'has' 'a' 'lot' 'of'
+ 'meaning' 'to' 'it' '.']"
+201	[30 41 38 40 36 12 23 23 23  6 38 40 16 42 36 12 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['They' 'decided' 'to' 'set' 'up' 'a' 'village' 'construction' 'council'
+ ',' 'to' 'focus' 'on' 'fixing' 'up' 'the' 'lanes' '.']"
+132	[39  6 10 30 41  6 12 23  6 49 40 17 26 44 33 17 38 40  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['Yes' ',' 'and' 'I' 'thought' ',' 'this' 'village' ',' 'how' 'come'
+ 'good' 'things' 'are' 'so' 'difficult' 'to' 'do' '?']"
+194	[16 30 41  6 30 41 33 17 38 40  6 10 30 41 16 12 23 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['After' 'it' 'rained' ',' 'it' 'was' 'really' 'tough' 'to' 'walk' ','
+ 'so' 'we' 'went' 'to' 'the' 'village' 'committee' '.']"
+107	[10 12 26 44 26 16 26  7]	['0' '1' '2' '3' '4' '5' '6' '7']	['But' 'the' 'peasants' 'need' 'lots' 'of' 'services' '.']
+208	[10 30 45 12 17 23  6 22 30 33 40 16 12 23 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['And' 'it' ""'s"" 'an' 'autonomous' 'institution' ',' 'might' 'it' 'not'
+ 'clash' 'with' 'the' 'village' 'committee' '?']"
+285	[23 45 17  6 33 33 16 24 10 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	"['Everybody' 'is' 'impatient' ',' 'especially' 'here' 'in' 'Belgrade'
+ 'and' 'Serbia' '.']"
+244	[24 24 41 42 11 23 16 12 26  6 16 12 23 42 16 12 23 29 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['Zheng' 'Bing' 'proposed' 'giving' 'one' 'share' 'to' 'these'
+ 'households' ',' 'with' 'the' 'capital' 'coming' 'from' 'the'
+ 'association' ""'s"" 'expenditures' '.']"
+307	"[24 24 24 24 24 24 24  6 16 24 24  6 41 31 17 23 23 16 11 26 12 23 16 11
+ 26  6 17 24 11 16 26 16 23 24 11  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35']"	"['SANTA' 'FE' 'PACIFIC' 'PIPELINE' 'PARTNERS' 'Limited' 'Partnership' ','
+ 'of' 'Los' 'Angeles' ',' 'increased' 'its' 'quarterly' 'cash' 'dividend'
+ 'to' '60' 'cents' 'a' 'unit' 'from' '55' 'cents' ',' 'payable' 'Nov.'
+ '14' 'to' 'units' 'of' 'record' 'Oct.' '31' '.']"
+19	[12 23 41  6 22 31 23 40 43 10 40 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['The' 'secretary' 'telephoned' ',' 'can' 'our' 'association' 'get'
+ 'involved' 'and' 'resolve' 'this' 'matter' '.']"
+38	"[39  6 16 12 23  6 31 23 41  6 39  6 12 24 24 24  6 16 12 26 16 12 24 24
+  6 46 41 23 29 17 26 16 12 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34']"	"['Um' ',' 'at' 'the' 'time' ',' 'my' 'husband' 'ran' ',' 'uh' ',' 'the'
+ 'Zhaizi' 'Technical' 'Center' ',' 'on' 'the' 'banks' 'of' 'the' 'Yellow'
+ 'River' ',' 'which' 'provided' 'farmer' ""'s"" 'financial' 'services' 'to'
+ 'the' 'peasants' '.']"
+203	[16 30 12 41 26 33  6 33 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	"['Because' 'we' 'all' 'discussed' 'things' 'together' ',' 'very'
+ 'intensely' '.']"
+111	[30 22 40 12 23 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	"['They' ""'ll"" 'defer' 'the' 'interest' 'for' 'each' 'year' '.']"
+99	[33 30 41 30 12 33  7]	['0' '1' '2' '3' '4' '5' '6']	['So' 'I' 'explained' 'it' 'all' 'faithfully' '.']
+73	[16 30 41 26 16 31 24 23  6 30 45 17 16 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14']	"['If' 'we' 'invited' 'technicians' 'from' 'our' 'Yongji' 'city' ',' 'it'
+ ""'s"" 'free' 'of' 'charge' '.']"
+167	[30 41 47  6 49 22 30 40 43 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['They' 'said' 'what' '?' 'How' 'can' 'we' 'be' 'compared' 'to' 'the'
+ 'city' '?']"
+270	[30 44 24 24  7]	['0' '1' '2' '3' '4']	['I' 'am' 'Tony' 'Kahn' '.']
+115	[39  6 44 33 40  6 44 33 40 21 12 23 16 32 30  6 30 44 33 40  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20']"	"['Yow' '!' 'Do' ""n't"" 'shoot' ',' 'do' ""n't"" 'shoot' '-LRB-' 'the' 'film'
+ 'of' '-RRB-' 'me' ',' 'I' 'do' ""n't"" 'cry' '.']"
+61	[33  6 12 23 16 23 41 12 17 23 23 23 16 12 42 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['Furthermore' ',' 'this' 'center' 'of' 'hers' 'became' 'an'
+ 'agricultural' 'technology' 'exchange' 'center' 'for' 'the' 'surrounding'
+ 'area' '.']"
+150	"[33 24 24  6 17 17 16 23  6 33 16 30 41 43 16 30 22 40 36  6 30 41 33 17
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['Therefore' 'Zheng' 'Bing' ',' 'fed' 'up' 'with' 'scare' ',' 'even'
+ 'though' 'she' 'was' 'convinced' 'that' 'she' 'should' 'give' 'up' ','
+ 'she' 'was' 'really' 'unwilling' '.']"
+75	[33 16 42 12 26  6 12 26 41 38 40 26 16 24 24  6 42 30 38 40 12 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['Aside' 'from' 'attening' 'the' 'classes' ',' 'the' 'peasants' 'began'
+ 'to' 'make' 'demands' 'of' 'Zheng' 'Bing' ',' 'asking' 'her' 'to'
+ 'undertake' 'some' 'projects' '.']"
+100	[16 30 41 30  6 12 23 41 33 17  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	"['After' 'I' 'explained' 'it' ',' 'the' 'lawyer' 'looked' 'all'
+ 'astonished' '.']"
+58	[17 26 12 41 16 12 17 23 47 41 33 16 31 17 26 38 40 12 17 23 16 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['Nearby' 'villagers' 'all' 'heard' 'about' 'this' 'terrific' 'person'
+ 'who' 'dug' 'deep' 'into' 'her' 'own' 'pockets' 'to' 'provide' 'an'
+ 'agricultural' 'seminar' 'for' 'everybody' '.']"
+30	[10 30 22 33 40  7]	['0' '1' '2' '3' '4' '5']	['And' 'she' 'would' 'often' 'sigh' '.']
+53	"[33 30 41 16 11 26  6 10 30 41 33 33 12 11 26  6 30 12 41 26 16 12 42 23
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['So' 'I' 'went' 'to' 'ten' 'villages' ',' 'but' 'it' 'was' ""n't"" 'just'
+ 'the' '80' 'people' ',' 'they' 'all' 'brought' 'people' 'from' 'the'
+ 'surrounding' 'area' '.']"
+4	"[18 16 11 26 16 24 29 24 24 24  6 26 10 26 41 16 11 26 38 40 16 17 26 16
+ 24  6 24  6 24  6 24  6 14 38 40 40 42 12 23 10 12 23 23 23 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42' '43'
+ '44' '45']"	"['More' 'than' '20' 'people' 'from' 'Wenzhou' ""'s"" 'Education' 'Committee'
+ 'Organization' ',' 'offices' 'and' 'cadres' 'separated' 'into' '7'
+ 'groups' 'to' 'go' 'to' 'such' 'places' 'as' 'Yueqing' ',' 'Ouhai' ','
+ 'Dongtou' ',' 'Pingyang' ',' 'etc.' 'to' 'help' 'finish' 'restoring'
+ 'the' 'school' 'and' 'the' 'school' 'opening' 'preparation' 'work' '.']"
+226	[24 24 29 23 41 16 12 23 23 22 40 12 23 16 11 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['Zheng' 'Bing' ""'s"" 'idea' 'was' 'that' 'each' 'member' 'household'
+ 'could' 'hold' 'a' 'maximum' 'of' 'three' 'shares' '.']"
+105	[10 17 23 49 12 23 45  6 22 30 40 17 38 40 36 12 11 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['So' 'next' 'year' 'when' 'the' 'time' 'expires' ',' 'will' 'you' 'be'
+ 'able' 'to' 'pay' 'off' 'this' '65,000' 'yuan' '?']"
+181	[33 30 41  7]	['0' '1' '2' '3']	['So' 'I' 'persisted' '.']
+98	[12 23 41 30  6 16 23 16 23  6 47 41  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['The' 'lawyer' 'asked' 'me' ',' 'from' 'A' 'to' 'Z' ',' 'what' 'happened'
+ '?']"
+48	"[33 30 22 40 16 30 23 16 23 10 40  6 30 44 42 38 40 12 17 23  8 22 30 40
+ 17 38 40  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27']"	"['Then' 'I' ""'d"" 'go' 'to' 'them' 'face' 'to' 'face' 'and' 'say' ',' 'We'
+ ""'re"" 'planning' 'to' 'hold' 'a' 'technical' 'training' ';' 'would' 'you'
+ 'be' 'willing' 'to' 'come' '?']"
+33	[12 24 25 24 45 31 23 16 12 23 16 24 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['The' 'Yongji' 'Peasants' 'Association' 'has' 'its' 'headquarters' 'at'
+ 'the' 'entrance' 'to' 'Zhaizi' 'Village' '.']"
+227	"[16 30 22 33 40 12 23 16 26  6 30 22 40 12 26 16 12 23 16 26 10 31 23 40
+ 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25']"	"['If' 'they' 'could' ""n't"" 'sell' 'that' 'number' 'of' 'shares' ',' 'they'
+ ""'d"" 'let' 'the' 'members' 'of' 'the' 'board' 'of' 'directors' 'and'
+ 'its' 'chairman' 'buy' 'shares' '.']"
+12	[33  6 12 45 12 17 23 23 38 40 33 43 10 43 12 23 23 16 12 23 16 12 24  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23']"	"['Accordingly' ',' 'this' 'is' 'the' 'first' 'peasant' 'organization' 'to'
+ 'be' 'legally' 'registered' 'and' 'designated' 'a' 'peasant'
+ 'association' 'since' 'the' 'founding' 'of' 'the' 'PRC' '.']"
+156	[33 44 33 40 23 40 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	"['Then' 'do' ""n't"" 'let' 'everybody' 'become' 'a' 'shareholder' '.']"
+137	[40  6 30 45 42 30 16 16 31 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	"['Look' ',' 'she' ""'s"" 'cheating' 'you' 'out' 'of' 'your' 'money' '!']"
+70	"[33  6 16 11  6 30 41 16 31 17 23  6 10 16 31 17 26 29 23  6 16 19 16 12
+ 26 42 12 23 26 41 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31']"	"['Then' ',' 'in' ""'99"" ',' 'I' 'went' 'to' 'our' 'agricultural' 'bureau'
+ ',' 'and' 'to' 'our' 'municipal' 'women' ""'s"" 'association' ',' 'because'
+ 'most' 'of' 'the' 'people' 'attending' 'the' 'training' 'sessions' 'were'
+ 'women' '.']"
+149	[33 30 41 43 10 43 16 12 23 16 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['later' 'it' 'was' 'persuaded' 'and' 'prevented' 'by' 'the' 'city' 'of'
+ 'Yongji' '.']"
+26	[16 23 30 22 43 16 24 24 29 17 23 33 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['In' 'fact' 'I' ""'d"" 'heard' 'about' 'Zheng' 'Bing' ""'s"" 'aggressive'
+ 'approach' 'early' 'on' '.']"
+245	"[12 11 15 10 26 10 12 23 41 36 16 11 26 38 40 12 23 16 42 26 16 12 11 26
+  8 33 11 23 41 24 24 29 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33']"	"['The' '20' '-' 'plus' 'directors' 'and' 'the' 'chairman' 'split' 'up'
+ 'into' 'seven' 'groups' 'to' 'discuss' 'the' 'matter' 'of' 'giving'
+ 'shares' 'to' 'these' 'twelve' 'households' ';' 'not' 'one' 'person'
+ 'supported' 'Zheng' 'Bing' ""'s"" 'idea' '.']"
+114	[10 30 45 17 16 30 22 40 10 40 38 40 30 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['But' 'it' ""'s"" 'good' 'that' 'they' 'can' 'understand' 'and' 'agree'
+ 'to' 'do' 'it' 'this' 'way' '.']"
+172	[12 23 30 33 41 33 40 12 23  6]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	"['That' 'afternoon' 'we' 'basically' 'did' ""n't"" 'dance' 'a' 'step' ',']"
+262	"[33 16 30 45 43 31 23 23  6 43 36 31 17 23 23  6 10 16 12 23 16 12 23 23
+  6 12 19 23 16 30 33 45 33 12 16 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36']"	"['Now' 'that' 'she' 'has' 'quit' 'her' 'teaching' 'job' ',' 'donated'
+ 'away' 'her' 'own' 'family' 'store' ',' 'and' 'with' 'the' 'development'
+ 'of' 'the' 'peasant' 'association' ',' 'the' 'biggest' 'issue' 'for'
+ 'her' 'now' 'is' 'still' 'that' 'of' 'money' '.']"
+31	"[10 49 12 23 16 12 25 24 45 36  6 10 49 41 16 49 30 41 42 26 10 42 30 40
+ 12 23 21 16 31 26 32  6 24 24 29 23 45 36 16 12 42 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42']"	"['But' 'when' 'the' 'subject' 'of' 'the' 'Peasants' 'Association' 'comes'
+ 'up' ',' 'and' 'when' 'talked' 'about' 'how' 'she' 'was' 'organizing'
+ 'peasants' 'and' 'helping' 'them' 'improve' 'the' 'quality' '-LRB-' 'of'
+ 'their' 'lives' '-RRB-' ',' 'Zheng' 'Bing' ""'s"" 'face' 'lights' 'up'
+ 'with' 'a' 'dazzling' 'smile' '.']"
+52	[18 16 11 26 41 16 12 23 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	['More' 'than' '400' 'people' 'came' 'to' 'the' 'class' 'that' 'day' '.']
+192	[31 23 41 12 23 33 16 42 17  6 17 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['Our' 'village' 'had' 'a' 'reputation' 'locally' 'as' 'having' 'messy'
+ ',' 'messy' 'lanes' '.']"
+6	"[16 12 26 47 22 33 40 23 16 16 23 17 26 43 16 12 23  6 17 17 26 16 26 10
+ 26 16 33 33 44 43 10 43 23  6 10 43 17 23 38 40 26 22 40 23 16 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42' '43'
+ '44' '45' '46']"	"['For' 'those' 'students' 'who' 'can' 'not' 'pay' 'tuition' 'because' 'of'
+ 'family' 'financial' 'difficulties' 'caused' 'by' 'the' 'disaster' ','
+ 'educational' 'administrative' 'departments' 'in' 'cities' 'and'
+ 'counties' 'from' 'all' 'over' 'have' 'reduced' 'or' 'remitted' 'tuition'
+ ',' 'or' 'rendered' 'certain' 'assistance' 'to' 'ensure' 'students' 'can'
+ 'start' 'school' 'on' 'time' '.']"
+16	[30 33 41 12 23 29 23 38 40 16 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['It' 'really' 'tested' 'the' 'association' ""'s"" 'ability' 'to' 'deal'
+ 'with' 'problems' '.']"
+197	[30 41 16 30 11 26  6 10 30 22 33 40 39  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['We' 'spoke' 'to' 'him' 'three' 'times' ',' 'and' 'they' ""'d"" 'always'
+ 'say' 'no' '.']"
+292	[39  6 30 45 12 23 46 41 43 16 23 29 23 16 24 24  6 12 24 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20']"	"['Well' ',' 'it' 'is' 'a' 'report' 'that' 'was' 'brought' 'by' 'today'
+ ""'s"" 'edition' 'of' 'Vetrivinia' 'Novostate' ',' 'a' 'Belgrade'
+ 'newspaper' '.']"
+89	[12 17 23 41 24 24 29 23 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	"['This' 'burdensome' 'debt' 'took' 'Zheng' 'Bing' ""'s"" 'breath' 'away' '.']"
+140	[31 26 29 23  6 31 23  6 30 12 41  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['Our' 'people' ""'s"" 'bank' ',' 'our' 'association' ',' 'they' 'all'
+ 'came' '.']"
+246	[10 49 24 24 41  6 23 33 41  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	"['But' 'when' 'Zheng' 'Bing' 'persisted' ',' 'everyone' 'finally' 'agreed'
+ '.']"
+77	[41 30 33 40 47 30 22 40 16 30 44 40 36 12 11 23 49 30 41 17  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20']"	"['Did' 'you' 'ever' 'think' 'what' 'you' ""'d"" 'do' 'if' 'they' ""could't""
+ 'pay' 'off' 'this' '150,000' 'yuan' 'when' 'it' 'came' 'due' '?']"
+108	[39  7]	['0' '1']	['Ho' '!']
+20	"[30 30 41 36 11 23  6 10 16 11 26 30 44 36 11 23  6 10 30 41 38 40 16 12
+ 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25']"	"['I' 'myself' 'put' 'up' '1,000' 'yuan' ',' 'and' 'with' '19' 'people'
+ 'we' 'put' 'together' '10,000' 'yuan' ',' 'and' 'we' 'went' 'to'
+ 'negotiate' 'with' 'the' 'contractor' '.']"
+72	"[33  6 42 16 12  6 12 17 26 29 23 41 33 17 16 30  6 10 30 41 16 30 16 42
+ 26 16 12 17 23 10 12 23 23 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34']"	"['So' ',' 'starting' 'in' ""'99"" ',' 'the' 'municipal' 'women' ""'s""
+ 'association' 'was' 'very' 'supportive' 'of' 'us' ',' 'and' 'they'
+ 'liaised' 'for' 'us' 'in' 'getting' 'teachers' 'from' 'the'
+ 'agricultural' 'bureau' 'and' 'the' 'water' 'conservancy' 'bureau' '.']"
+7	"[23 26 10 23 10 17 26 16 12 23 26 33 41 38 40 33 16 23  6 33 42 12 23 23
+  6 42 23 10 23  6 10 40 26 16 43 23 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37']"	"['School' 'leaders' 'and' 'teaching' 'and' 'administrative' 'workers' 'in'
+ 'the' 'disaster' 'areas' 'automatically' 'went' 'to' 'work' 'ahead' 'of'
+ 'time' ',' 'carefully' 'cleaning' 'the' 'school' 'environment' ','
+ 'implementing' 'sanitation' 'and' 'disinfection' ',' 'and' 'conduct'
+ 'repairs' 'on' 'damaged' 'school' 'buildings' '.']"
+8	"[24 29 24 24 10 12 24 24 24 16 12 24 24 24 33 41 16 26 10 26 16 12 26 16
+ 12 23 23 38 40 12 23 23 23 43  9 42 23 16 23 43 26  1  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42']"	"['Wenzhou' ""'s"" 'Education' 'Committee' 'and' 'the' 'Weizhou' 'Municipal'
+ 'Committee' 'of' 'the' 'Communist' 'Youth' 'League' 'also' 'united'
+ 'with' 'teachers' 'and' 'students' 'of' 'the' 'schools' 'in' 'the'
+ 'disaster' 'area' 'to' 'initiate' 'a' 'donation' 'collection' 'activity'
+ 'called' '""' 'Donating' 'love' 'to' 'disaster' 'stricken' 'schools' '""'
+ '.']"
+102	[33 12 23 41 30 12 36  7]	['0' '1' '2' '3' '4' '5' '6' '7']	['So' 'the' 'lawyer' 'sorted' 'it' 'all' 'out' '.']
+97	[30 41  6 39 33 30 33 22 33 40 16 30  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['I' 'said' ',' 'well' 'then' 'I' 'still' 'can' 'not' 'help' 'with' 'it'
+ '.']"
+279	[10 12 45 12 23  7]	['0' '1' '2' '3' '4' '5']	"['But' 'that' ""'s"" 'all' 'theory' '.']"
+45	"[16 12 23 30 41 17 38 40 12 23 38 40 16 12 26 22 33 40 38 40 30  6 10 16
+ 12 23 30 41 16 23 16 23  6 30 41 33 42  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37']"	"['At' 'the' 'time' 'I' 'was' 'afraid' 'to' 'ask' 'the' 'teacher' 'to'
+ 'come' 'because' 'the' 'peasants' 'might' 'not' 'come' 'to' 'hear' 'him'
+ ',' 'so' 'at' 'the' 'time' 'I' 'ran' 'from' 'village' 'to' 'village' ','
+ 'I' 'went' 'around' 'organizing' '.']"
+67	[42 16 11  6 16 16 11  6 16 12 11 23 23  6 30 41 11 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['Starting' 'in' ""'99"" ',' 'because' 'in' ""'98"" ',' 'for' 'that' 'one'
+ 'training' 'session' ',' 'I' 'spent' '1,300' 'yuan' '.']"
+10	[21 23 32]	['0' '1' '2']	['-LRB-' 'End' '-RRB-']
+144	[16 33  6 26 16 17 26 16 31 23  6 30 12 41 33 16 30  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17']"	"['Because' 'there' ',' 'leaders' 'of' 'different' 'sectors' 'from' 'our'
+ 'city' ',' 'they' 'all' 'came' 'here' 'to' 'us' '.']"
+36	[33 16 11  6 49 41 30 40 16 42 17 23 16 12 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Back' 'in' ""'97"" ',' 'why' 'did' 'you' 'think' 'of' 'giving' 'technical'
+ 'training' 'to' 'the' 'peasants' '?']"
+80	[12 23 33  6 30  6 41  6 23 41 36 12 23  6 10 12 23 23 41 16 30  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21']"	"['A' 'year' 'later' ',' 'it' ',' 'failed' ',' 'nobody' 'paid' 'back' 'the'
+ 'money' ',' 'and' 'the' 'credit' 'union' 'came' 'after' 'us' '.']"
+277	"[30 44 38 40 11 23 16 23 16 24 24 10 12 17 26 16 24 10 24 44 43 36 23 16
+ 12 17 23  6 10 12 17 26 16 23 44 16 12 17 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39']"	"['We' 'have' 'to' 'keep' 'one' 'thing' 'in' 'mind' 'that' 'Vojislav'
+ 'Kostunica' 'and' 'the' 'pro-democracy' 'elements' 'in' 'Serbia' 'and'
+ 'Yugoslavia' 'have' 'taken' 'over' 'authority' 'on' 'the' 'federal'
+ 'level' ',' 'but' 'the' 'key' 'leaders' 'of' 'power' 'are' 'on' 'the'
+ 'republican' 'level' '.']"
+44	"[12 17 23  6 42 12 17 23  6  6 16 12 23 12 24 24 24 41 11 10 11 23 16 31
+ 23  6 10 30 41 16 12 26 16 12 24 24  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36']"	"['The' 'first' 'time' ',' 'organizing' 'the' 'first' 'time' ',' ',' 'at'
+ 'the' 'time' 'that' 'Zhaizi' 'Technical' 'Center' 'was' 'seven' 'or'
+ 'eight' 'li' 'from' 'our' 'village' ',' 'and' 'it' 'was' 'on' 'the'
+ 'banks' 'of' 'the' 'Yellow' 'River' '!']"
+123	[30 41 16 26 44 33 33 42 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	"['I' 'discovered' 'that' 'peasants' 'are' 'not' 'entirely' 'having' 'no'
+ 'money' '.']"
+88	[16 12 23 23  6 11 23 45 12 17 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['In' 'a' 'farming' 'village' ',' '150,000' 'yuan' 'is' 'no' 'small' 'sum'
+ '.']"
+240	[16 30 44 30 33 44 38 40 12 23 23  6 30 44 30 41 36 12 23 16 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21']"	"['If' 'you' 'think' 'you' 'really' 'want' 'to' 'hold' 'a' 'controlling'
+ 'share' ',' 'I' 'suggest' 'you' 'set' 'up' 'a' 'plant' 'on' 'paper' '.']"
+146	[30 41  6 16 30 45 42 23 33  6 30 22 40 36 33 33  6 30 22 33 40 30 33  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23']"	"['I' 'said' ',' 'if' 'it' ""'s"" 'raising' 'capital' 'illegally' ',' 'I'
+ ""'ll"" 'shut' 'down' 'right' 'away' ',' 'I' 'wo' ""n't"" 'do' 'it' 'anymore'
+ '.']"
+81	[10 30 41 33 40 12 23  6 30 41 16 12 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['But' 'I' 'did' ""n't"" 'feel' 'any' 'regret' ',' 'I' 'looked' 'for' 'the'
+ 'reasons' '.']"
+59	[10 30 12 41 42 16 12 17 26 23 38 40 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['And' 'they' 'all' 'loved' 'coming' 'to' 'the' 'technical' 'services'
+ 'center' 'to' 'buy' 'things' '.']"
+148	[12 23 41 12 23  6]	['0' '1' '2' '3' '4' '5']	['The' 'bank' 'investigated' 'the' 'matter' ',']
+117	[16 11 24 24 41 31 23 16 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	['In' '1999' 'Zheng' 'Bing' 'quit' 'her' 'job' 'as' 'a' 'teacher' '.']
+284	[12 23 36 16 28 12 26 16 23 16 24 24 10 31 26 45 12 23 46 33 45 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['The' 'taking' 'over' 'of' 'all' 'the' 'leaders' 'of' 'power' 'for' 'Mr.'
+ 'Kostunica' 'and' 'his' 'allies' 'is' 'a' 'process' 'which' 'definitely'
+ 'takes' 'time' '.']"
+229	[30 41 17 26 40 30 41 12 17 23  6 16 23 16 12 23 23 23 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19']"	"['I' 'heard' 'many' 'people' 'say' 'you' 'made' 'an' 'arbitrary'
+ 'decision' ',' 'with' 'regard' 'to' 'the' 'paint' 'plant' 'shareholding'
+ 'decision' '.']"
+162	[16 33  6 12 23 45 42 33 16 30 45 42 23 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14']	"['Since' 'then' ',' 'no' 'one' 'is' 'saying' 'anymore' 'that' 'she' 'is'
+ 'raising' 'capital' 'illegally' '.']"
+143	[30 41  6 30 44 16 30 44 42 23 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11']	"['They' 'said' ',' 'we' 'hear' 'that' 'you' ""'re"" 'raising' 'capital'
+ 'illegally' '.']"
+180	"[10 30 41 16 30 41 33  6 12 23  6 17  6 10 30 41  6 33 12 45 12 23 16 12
+ 17 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26']"	"['But' 'I' 'saw' 'that' 'they' 'were' 'so' ',' 'that' 'kind' ',' 'excited'
+ ',' 'and' 'I' 'felt' ',' 'maybe' 'this' 'is' 'the' 'beginning' 'of' 'a'
+ 'new' 'life' '.']"
+106	"[11 23 16 12 23  6  6 16 30 44 33 40 12 18 26 16 12 26  6 30 22 40 30 36
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24']"	"['65,000' 'yuan' 'from' 'the' 'start' ',' ',' 'if' 'I' 'do' ""n't""
+ 'provide' 'any' 'more' 'services' 'to' 'the' 'peasants' ',' 'I' 'can'
+ 'pay' 'it' 'off' '.']"
+139	[12 26 33 41 36 31 23  7]	['0' '1' '2' '3' '4' '5' '6' '7']	['These' 'things' 'really' 'shook' 'up' 'our' 'government' '.']
+228	[10 30 22 33 40 11 26 10 11 26  6 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['But' 'they' 'could' 'not' 'exceed' 'five' 'shares' 'and' 'ten' 'shares'
+ ',' 'respectively' '.']"
+299	"[23  6 30 41 12 17 24 24  6 23 30 44 24 24  6 47 45 12 23 16 12 17 23 29
+ 24 24 16 24 24  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29']"	"['Yesterday' ',' 'we' 'had' 'the' 'French' 'Foreign' 'Minister' ','
+ 'today' 'we' 'have' 'Budor' 'Homback' ',' 'who' 'is' 'the' 'head' 'of'
+ 'the' 'international' 'community' ""'s"" 'Stability' 'Pact' 'for'
+ 'Southeast' 'Europe' '.']"
+160	[30 41 16 30 33 10 33  7]	['0' '1' '2' '3' '4' '5' '6' '7']	['I' 'worked' 'with' 'him' 'again' 'and' 'again' '.']
+57	[12 23 41 24 24 18 16 30 41 43  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	"['This' 'class' 'earned' 'Zheng' 'Bing' 'more' 'than' 'she' 'had'
+ 'expected' '.']"
+196	[30 41 38 40 30  7]	['0' '1' '2' '3' '4' '5']	['We' 'went' 'to' 'see' 'him' '.']
+95	[16 12 23 30 41 12 23 16 30  6 10 12 23 33 41  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['At' 'the' 'time' 'they' 'filed' 'a' 'lawsuit' 'against' 'me' ',' 'and'
+ 'the' 'lawyer' 'also' 'came' '!']"
+176	[39  7]	['0' '1']	['Hah' '!']
+121	"[39  6 16 30 22 33 40 16 12 17 23  6 30 41 42 49 22 30 40 17 38 40 12 26
+ 23 38 40 12 26 29 17 26  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32']"	"['Ho' '!' 'If' 'I' 'could' 'not' 'collect' 'on' 'that' 'big' 'amount' ','
+ 'I' 'was' 'thinking' 'how' 'will' 'I' 'be' 'able' 'to' 'give' 'the'
+ 'peasants' 'credit' 'to' 'solve' 'the' 'peasants' ""'"" 'real' 'problems'
+ '?']"
+113	[33 30 22 40 12 11 26 36 33  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	['Then' 'they' 'can' 'push' 'the' 'six' 'years' 'back' 'again' '.']
+173	[30 41 12 23  7]	['0' '1' '2' '3' '4']	['We' 'laughed' 'all' 'afternoon' '.']
+124	[33 33  6 30 41 42  6 22 33 12 26 40 36 16 30 16 12 23 23 16 42 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22']"	"['So' 'then' ',' 'I' 'was' 'thinking' ',' 'could' ""n't"" 'the' 'peasants'
+ 'join' 'up' 'with' 'us' 'in' 'this' 'fertilizer' 'store' 'by' 'becoming'
+ 'shareholders' '?']"
+47	[39  6 10 16 12 23  6 30 22 40 33 42 38 40 36 47 41 12 19 23 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21']"	"['Um' ',' 'and' 'at' 'each' 'village' ',' 'I' 'would' 'go' 'around'
+ 'trying' 'to' 'find' 'out' 'who' 'had' 'the' 'most' 'technology'
+ 'awareness' '.']"
+130	"[33 33  6 12 26 44 33 31 17  6 10 31 23 22 40 12 26 29 23 10 40  6 12 23
+ 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25']"	"['That' 'is' ',' 'the' 'peasants' 'bring' 'in' 'their' 'own' ',' 'and'
+ 'our' 'store' 'will' 'take' 'the' 'peasants' ""'"" 'money' 'and' 'run' ','
+ 'the' 'fertilizer' 'store' '.']"
+185	[16 24 24 11  6 11  6 24 24 41 12 17 23 15 23 16 46 12 26 41  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20']"	"['On' 'Lunar' 'January' '1' ',' '2003' ',' 'Zheng' 'Bing' 'organized' 'a'
+ 'large' 'get' '-' 'together' 'in' 'which' 'the' 'men' 'participated' '.']"
+129	[10 12 23 30 41  6 16 30 44 43  6 33 30 22 40 31 23 10 40 23  6 40 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23']"	"['And' 'the' 'amount' 'you' 'invested' ',' 'if' 'you' ""'ve"" 'invested' ','
+ 'then' 'we' ""'ll"" 'take' 'your' 'money' 'and' 'buy' 'fertilizer' ','
+ 'sell' 'fertilizer' '.']"
+40	"[33  6 17 16 12 26 47 41 16 12 23 38 40 23  6 30 22 40 16 12 23  6 10 30
+ 33 41 33 40 12 23  6 10 30 22 40  6 23 15 10 15 23 45 42 12  6 10 30 22
+ 40 12  6 10 30 33 41 33 40  6 30 41 33 40 10 40 23 43 16 47 31 17 23 41
+  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28' '29'
+ '30' '31' '32' '33' '34' '35' '36' '37' '38' '39' '40' '41' '42' '43'
+ '44' '45' '46' '47' '48' '49' '50' '51' '52' '53' '54' '55' '56' '57'
+ '58' '59' '60' '61' '62' '63' '64' '65' '66' '67' '68' '69' '70' '71'
+ '72']"	"['Also' ',' 'many' 'of' 'those' 'peasants' 'who' 'came' 'into' 'the'
+ 'store' 'to' 'buy' 'fertilizer' ',' 'they' ""'d"" 'come' 'into' 'the'
+ 'store' ',' 'and' 'they' 'really' 'did' ""n't"" 'have' 'a' 'clue' ',' 'and'
+ 'they' ""'d"" 'think' ',' 'So' '-' 'and' '-' 'so' 'is' 'buying' 'that' ','
+ 'so' 'I' ""'ll"" 'buy' 'that' ',' 'and' 'they' 'basically' 'did' ""n't""
+ 'know' ',' 'they' 'did' ""n't"" 'go' 'and' 'choose' 'something' 'based'
+ 'on' 'what' 'their' 'own' 'land' 'needed' '.']"
+63	[49 17 26 16 12 23 16 11 44 30 43 17 23 26  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14']	"['How' 'many' 'times' 'since' 'the' 'end' 'of' ""'98"" 'have' 'you' 'held'
+ 'similar' 'training' 'sessions' '?']"
+109	[13 45 12 23 38 40 30  7]	['0' '1' '2' '3' '4' '5' '6' '7']	"['There' ""'s"" 'no' 'way' 'to' 'stop' 'it' '.']"
+93	[10 33 49 41 30 46 12 23 23 41 30 40  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12']	"['But' 'then' 'how' 'was' 'it' 'that' 'the' 'credit' 'union' 'let' 'you'
+ 'go' '?']"
+112	[12 23 30 22 40 30 12 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8']	"['Each' 'year' 'I' ""'ll"" 'give' 'them' 'the' 'interest' '.']"
+177	[ 6 49 22 30 40  7]	['0' '1' '2' '3' '4' '5']	[',' 'how' 'can' 'we' 'dance' '!']
+169	"[12 23 30 41  6 16 12 26 29 23  6 12 26 29 23 41 30 12  6 31 24  6 41 26
+ 16 12 24 23  7]"	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20' '21' '22' '23' '24' '25' '26' '27' '28']"	"['That' 'day' 'I' 'went' ',' 'to' 'the' 'women' ""'s"" 'association' ','
+ 'The' 'women' ""'s"" 'association' 'gave' 'us' 'that' ',' 'our' 'Yongji'
+ ',' 'invited' 'teachers' 'from' 'the' 'Chunlei' 'kindergarten' '.']"
+187	[16 12  6 30 41 17 16 12 26 38 40 30 12 26 29 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16']"	"['After' 'that' ',' 'it' 'became' 'popular' 'among' 'the' 'villagers' 'to'
+ 'call' 'it' 'the' 'peasants' ""'"" 'association' '.']"
+145	[49 30 41 33 42 23  6 30 41 17  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10']	"['When' 'they' 'said' 'illegally' 'raising' 'capital' ',' 'I' 'was'
+ 'startled' '.']"
+110	[33  6 30 41 30 16 12 23 23  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	['So' ',' 'I' 'discussed' 'it' 'with' 'the' 'credit' 'union' '.']
+276	[39  6 30 45 24 24 47 33 33 45 12 24 24 16 24  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15']	"['Well' ',' 'it' ""'s"" 'Mirco' 'Merianovic' 'who' 'officially' 'still' 'is'
+ 'the' 'Prime' 'Minister' 'of' 'Serbia' '.']"
+127	[33  6 16 30 44 43 12 23  6 30 22 40 16 12 23 38 40 23  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18']"	"['Then' ',' 'after' 'you' ""'ve"" 'become' 'a' 'shareholder' ',' 'you' 'can'
+ 'come' 'at' 'any' 'time' 'to' 'get' 'fertilizer' '.']"
+62	[49 26 22 40 16 12 17 23 23  6 30 12 41 38 40 33 38 40 16 26  7]	"['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13' '14' '15'
+ '16' '17' '18' '19' '20']"	"['Whenever' 'villagers' 'would' 'run' 'into' 'some' 'agricultural'
+ 'production' 'issue' ',' 'they' 'all' 'liked' 'to' 'come' 'here' 'to'
+ 'look' 'for' 'answers' '.']"
+165	[16 42 12 23 26  6 49 41 12 23 23 40 36  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' '13']	"['In' 'organizing' 'the' 'village' 'women' ',' 'how' 'did' 'the' 'dancing'
+ 'part' 'come' 'about' '?']"
+142	[30 41  6 49 44 30 40 38 40  7]	['0' '1' '2' '3' '4' '5' '6' '7' '8' '9']	['I' 'said' ',' 'why' 'do' 'you' 'need' 'to' 'investigate' '?']
